@@ -1,26 +1,22 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is a Ph.D. student in the Department of Earth and Planetary Sciences (EPS) at Harvard University, advised by Prof. Mostafa Mousavi. His research focuses on developing machine learning and foundation-model approaches for seismic signal processing, earthquake monitoring, and related geophysical applications.
+LIU, MINGXUE holds a Bachelor's degree and is engaged in safety management at the Research Center. He participated in the project “Quality Standards and Monitoring System for All Stages of Clinical Teaching in TCM Universities”, which won the Third Prize of the 6th Sichuan Provincial Higher Education Teaching Achievement Award.
+
+He also took part in “Innovation Research on the Talent Training Model of the Seven-Year TCM Programme (Acupuncture–English Direction)”, awarded the Special Prize of the University's 8th Education and Teaching Achievement Awards, and “Construction and Practice of the Core Clinical Competence Training System for the Acupuncture and Tuina Major”, awarded the First Prize of the University's 9th Education and Teaching Achievement Awards.
 
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 19961016@cdutcm.edu.cn
+Tel: +86 189 8089 1098
 
 
 #### Education
 
-Ph.D. in Earth and Planetary Sciences,
-Harvard University, 2026—Present
-
-M.E. in Computer Science and Technology,
-China University of Mining and Technology, 2022—2025
-
-B.E. in Data Science and Big Data Technology,
-China University of Mining and Technology, 2018–2022
+B.E. in Acupuncture and Moxibustion and Tuina,
+Chengdu University of Traditional Chinese Medicine, 1990–1995
 
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Acupuncture and Tuina mechanisms in inflammatory and arthritic conditions (animal models of adjuvant arthritis); teaching methodology and curriculum reform in TCM and Acupuncture higher education; clinical rehabilitation and Tuina manipulation therapy; experimental technique standardisation in TCM basic-science education.
